@@ -5,7 +5,7 @@ Our goal is to genotype single pollen grains - better than single cell because p
 
 MIGseq uses degnerate primers in a multiplexed PCR reaction to amplify and sequence ISSR (inter-simple sequence repeat) markers by the hundreds or thousands. I modified the MIGseq library prep of Suyama and Matsuki, 2015 to include Adapterama I barcodes (Glenn et al, 2019a) and Adapterama II style primers (Glenn et al, 2019b). 
 
-### How many pollen grains do I haev to sequence?
+### How many pollen grains do I have to sequence?
 
 We did a power analysis to determine how many pollen grains we would have to sequence.  Imputing missing data for pollen is easy if we assume 1 or 2 crossover events per chromosome because pollen is hapolid. 
 
